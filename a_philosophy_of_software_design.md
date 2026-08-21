@@ -1,4 +1,4 @@
-##Chapter 1: Intro
+## Chapter 1: Intro
 * If you can visualize a system you can probably implement it in a computer program. It is the purest creative activity.
 Eliminating Complexity
 1. Make code simpler and more obvious
@@ -9,7 +9,7 @@ Eliminating Complexity
 
 Agile is more popular because software you will run into problems and you cannot know the whole design and issues that will pop up. So just starting to implement and changing as development happens is usually better and more flexible.
 
-##Chapter 2: Nature of Complexity
+## Chapter 2: Nature of Complexity
 * The ability to recognize complexity is a crucial design skill. It allows you to identify problems before you invest alot of effort in them. You can then think of alternatives and compare the complexity of each.
 * Complexity = anything that makes the software hard to understand or modify the system
   * Complexity is easier to see from reader vs creator. -> ask others to review your design
