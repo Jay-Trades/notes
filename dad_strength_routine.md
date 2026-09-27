@@ -23,6 +23,26 @@ Pushups hurt his wrists. He already does goblet squats (20 lb) and heel raises.
 5. **Core without the wrists**: forearm plank, dead bugs, bird dogs.
 6. **Balance**: stand on one leg for 30 s per side, holding a counter if needed.
 
+## For walking endurance
+
+He's been getting tired walking more recently. A **new** drop in walking stamina
+is worth a doctor visit first (heart, lungs, anemia, thyroid, circulation,
+medication side effects). Go sooner if there's shortness of breath, chest
+pressure, calf/leg cramping that stops when he rests, ankle swelling, or dizziness.
+
+Once cleared:
+
+- **Walking itself** is the main fix. Lifting doesn't build stamina. Start at
+  what's comfortable (e.g. 10 min), add ~5 min per week, aim for 30 min most days.
+  Pace: can talk, but not sing. Stationary bike or pool also works.
+- **Step-ups** (low step, hold a rail): stairs, curbs, pushing off each step.
+- **Split squats / reverse lunges**: single-leg strength. Walking is one leg at a time.
+- **Side-lying leg raises or band side-steps**: hip side muscles (glute medius)
+  keep the pelvis level and prevent shuffling or waddling.
+- **Glute bridges**: hip extension pushes you forward on each step.
+- **Heel raises** (already doing): push-off. Try one leg at a time.
+- **Toe raises** (lean on a wall, lift toes): prevents tripping on the toes.
+
 ## Sample session (2–3x/week)
 
 | Exercise                         | Sets x Reps       |
